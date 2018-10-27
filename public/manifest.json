@@ -1,0 +1,19 @@
+{
+  "short_name": "DCL Escrow",
+  "name": "DCL Escrow dApp",
+  "icons": [
+    {
+      "src": "./assets/img/favicon.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ],
+<<<<<<< HEAD
+   "start_url": ".",
+=======
+  "start_url": ".",
+>>>>>>> 71cd4288578d421d9b22c55cc9c2876ee0642943
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

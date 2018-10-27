@@ -1,0 +1,6 @@
+{
+  "name": "Createescrow",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Createescrow.js"
+}
